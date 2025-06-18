@@ -4108,3 +4108,88 @@ Her bir bileşen, birbirine bağlı olduğu ve birlikte çalıştıkları göste
 2025-06-19 00:30:23,135 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
 2025-06-19 00:30:23,135 INFO Ollama yanıtı: Görselde bir fare silueti bulunmaktadır.
 2025-06-19 00:30:23,138 INFO Görsel alındı: frame.jpg
+2025-06-19 00:30:25,887 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:30:25,887 INFO Ollama yanıtı: Görselde, bir düğümün, ana hat ve kablo gibi bir ağın bir parçası olduğunu gösteren basit bir şema bulunmaktadır.
+2025-06-19 00:30:25,889 INFO Görsel alındı: frame.jpg
+2025-06-19 00:30:29,524 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:30:29,524 INFO Ollama yanıtı: Görselde, bembeyaz bir tişört giyen, uzun sakalı olan bir adamın koltuğa oturduğu görülüyor. Koltuğun arkasında beyaz bir cihaz var ve odaya loş bir ışık yayıldığını görebiliyoruz.
+2025-06-19 00:30:29,527 INFO Görsel alındı: frame.jpg
+2025-06-19 00:30:32,429 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:30:32,429 INFO Ollama yanıtı: Görselde boş bir kare bulunmaktadır.
+2025-06-19 00:30:32,432 INFO Görsel alındı: frame.jpg
+2025-06-19 00:30:36,172 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:30:36,172 INFO Ollama yanıtı: Görselde, loş ışıklı, belki bir odada, bembeyaz saçlı ve sakalı olan bir adamın fotoğrafı var. Adam, gri bir hırka giymiş ve başını hafifçe eğmiş durumda. Arka planda bir dolap ve karton kutular görülebiliyor.
+2025-06-19 00:30:36,174 INFO Görsel alındı: frame.jpg
+2025-06-19 00:30:39,456 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:30:39,456 INFO Ollama yanıtı: Görselde, loş ışıklı bir odada oturmuş, uzun bir sakala sahip, bembeyaz bir tişört giymiş bir adam var.
+2025-06-19 00:30:39,459 INFO Görsel alındı: frame.jpg
+2025-06-19 00:30:43,050 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:30:43,050 INFO Ollama yanıtı: Görselde, loş ışıklı bir odaya bakmıyor, bembeyaz renkli bir sandalyede oturan, kısa saçlı ve yoğun bakışlı bir adam var. Arkasında, açık renkli dolaplar ve kutular görülebiliyor.
+2025-06-19 00:30:43,053 INFO Görsel alındı: frame.jpg
+2025-06-19 00:30:45,819 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:30:45,819 INFO Ollama yanıtı: Görselde bir fare silueti bulunmaktadır.
+2025-06-19 00:30:45,821 INFO Görsel alındı: frame.jpg
+2025-06-19 00:30:49,396 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:30:49,397 INFO Ollama yanıtı: Görselde, koyu renkli bir odada, kahverengi bir tişört giymiş, uzun sakalı olan bir adamın koltukta oturduğu görülüyor. Arkasında beyaz bir koltuk var ve duvarda kitaplık ve eşyalar görülebiliyor.
+2025-06-19 00:30:49,399 INFO Görsel alındı: frame.jpg
+2025-06-19 00:30:52,327 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:30:52,327 INFO Ollama yanıtı: Görselde, bir boşluk veya siyah bir alan bulunmaktadır.
+
+2025-06-19 00:30:52,330 INFO Görsel alındı: frame.jpg
+2025-06-19 00:30:54,951 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:30:54,952 INFO Ollama yanıtı: Görselde, bir kediye benzeyen, siyah ve beyaz desenli bir çizim var.
+2025-06-19 00:30:54,955 INFO Görsel alındı: frame.jpg
+2025-06-19 00:30:57,397 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:30:57,397 INFO Ollama yanıtı: Görselde siyah bir boşluk var.
+2025-06-19 00:30:57,399 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:00,827 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:00,827 INFO Ollama yanıtı: Görselde, karanlık bir odada, kısa saçlı, sakallı bir adam yerleştirilmiş. Adam, bir sandalyede oturmuş ve bir şeyler tutuyor. Arka planda bir sandalyenin yanı sıra bir dolap ve kutular da görünüyor.
+2025-06-19 00:31:00,830 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:03,689 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:03,689 INFO Ollama yanıtı: Görselde bir araba çizimi var.
+2025-06-19 00:31:03,691 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:07,301 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:07,301 INFO Ollama yanıtı: Görselde, loş ışıklı bir odada, orta yaşlı bir adam yerleştirilmiş. Adamın yüzü net değil, ancak yoğun bir şekilde bakıyor. Arkasında bir sandalye ve bazı eşyalar görülebiliyor.
+2025-06-19 00:31:07,305 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:10,485 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:10,485 INFO Ollama yanıtı: Görselde, karanlık bir odada, uzun bir sakalı olan bir adamın yüzü görünmektedir. Arka planda bir mobilya ve duvarda bir kitaplık bulunmaktadır.
+2025-06-19 00:31:10,488 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:14,098 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:14,098 INFO Ollama yanıtı: Görselde, loş ışıklı bir odaya yakın bir şekilde çekilmiş bir adam var. Adamın siyah bir tişörtü ve tıraşlı sakalı var. Arka planda kitaplık ve beyaz renkli bir mobilya görülebiliyor.
+2025-06-19 00:31:14,100 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:17,031 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:17,031 INFO Ollama yanıtı: Görselde tamamen siyah bir ekran var.
+2025-06-19 00:31:17,034 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:20,596 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:20,596 INFO Ollama yanıtı: Görselde, gri bir tişört giyen, yüzünü kapatan bir ağızlık takan ve başını arkaya yaslamış bir adam oturmaktadır. Ortam loştur ve bir beyaz renkli sandalye ve bir dolap görülmektedir.
+2025-06-19 00:31:20,599 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:23,660 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:23,660 INFO Ollama yanıtı: Görselde, mavi bir renkli bir kutu ve bunun içine yerleştirilmiş bir beyaz daire bulunmaktadır.
+2025-06-19 00:31:23,663 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:26,259 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:26,260 INFO Ollama yanıtı: Görselde tamamen siyah bir fon üzerinde, büyük, beyaz bir daire var.
+2025-06-19 00:31:26,263 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:28,745 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:28,745 INFO Ollama yanıtı: Görselde, bir kar tanesi var.
+2025-06-19 00:31:28,747 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:32,317 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:32,318 INFO Ollama yanıtı: Görselde, bir adam, beyaz bir sandalyede oturuyor. Erkek, bakır rengi bir tişört giyiyor ve yüzünü kapatıyor. Arka planda, bir şapka, kitaplar ve kutular bulunuyor.
+2025-06-19 00:31:32,320 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:35,276 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:35,277 INFO Ollama yanıtı: Görselde boşluk var. Bir şey yok.
+2025-06-19 00:31:35,279 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:38,563 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:38,564 INFO Ollama yanıtı: Görselde, bembeyaz bir arka plan üzerinde, koyu renkli bir tişört giymiş, uzun bir sakalı olan bir adam bulunmaktadır.
+2025-06-19 00:31:38,566 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:41,994 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:41,994 INFO Ollama yanıtı: Görselde, gri bir tişört giyen, siyah sakalı olan bir adam bir koltukta oturuyor. Ortam loş ve odanın içini aydınlatıyor. Arka planda bir dolap ve kutular var.
+2025-06-19 00:31:41,997 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:45,045 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:45,046 INFO Ollama yanıtı: Görselde siyah bir arka plan üzerinde beyaz bir daire var. Dairenin içinde de küçük bir daire var.
+2025-06-19 00:31:45,047 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:48,732 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:48,733 INFO Ollama yanıtı: Görselde, açık renkli bir tişörtlü, tıraşlı ve hafif bir sakalı olan bir adamın, muhtemelen bir sandalyede oturuyormuş gibi göründüğü iç mekan görüntüsü var. Arka planda bir şapka ve kutular da görülebiliyor.
+2025-06-19 00:31:48,736 INFO Görsel alındı: frame.jpg
+2025-06-19 00:31:52,179 INFO Ollama API'ye istek atıldı: http://localhost:11434/api/chat | Model: gemma3:4b-it-fp16 | Status: 200
+2025-06-19 00:31:52,179 INFO Ollama yanıtı: Görselde, bembeyaz bir başlıkla bir koltukta oturmuş, bembeyaz bir gömlek giymiş bir adamın fotoğrafı var. Çevresinde kitaplık ve kutular görünüyor.
+2025-06-19 00:31:52,181 INFO Görsel alındı: frame.jpg
