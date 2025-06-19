@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/15c90766-fea9-4321-a87b-0713430a4a30)
+
 # Webcam Görüntü Açıklama Uygulaması
 
 ## Gereksinimler
